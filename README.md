@@ -7,4 +7,4 @@ My name is Mark and I am a big Chicago Cubs and Pittsburgh Steelers fan.
 ## 2. Files Used
 # Description
 ### This is my first experience using Github. 
-[^1]: I am practicing a footnote
+I am practicing a footnote
